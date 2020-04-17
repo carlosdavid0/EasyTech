@@ -9,3 +9,5 @@
 * Francisco Erik Brito Martins / Designer Gráfico 
 * Francisco Klayver Lopes Dourado / Programador Front-End 
 * Gean Lucas Oliveira Mororó / Designer Gráfico e Testador.
+
+Repositório Criado em 17/04/2020: Status do Projeto : Pré Alpha . 
